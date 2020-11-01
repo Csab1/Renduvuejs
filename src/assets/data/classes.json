@@ -1,0 +1,104 @@
+{
+    "name": " Les Classes",
+    "classes": [
+      {
+        "name": "Barbare",
+        "Vie": "d12 ",
+        "Carac": "Force,Constitution",
+        "incant": "-",
+        "save": "Force,Constitution",
+        "image": "barbare.png"
+      },
+      {
+        "name": "Barde",
+        "Vie": "d8 ",
+        "Carac": "Charisme, Dextérité",
+        "incant": "Charisme",
+        "save": "Dextérité , Charisme",
+        "image": "barde.png"
+      },
+      {
+        "name": "Clerc",
+        "Vie": "d8 ",
+        "Carac": "Sagesse , Force",
+        "incant": "Sagesse",
+        "save": "Sagesse , Charisme",
+        "image": "clerc.png"
+        
+
+      },
+      {
+        "name": "Druide",
+        "Vie": "d8 ",
+        "Carac": "Sagesse, Constitution",
+        "incant": "Sagesse",
+        "save": "Intelligence , Sagesse",
+        "image": "druide.png"
+      },
+      {
+        "name": "Ensorceleur",
+        "Vie": "d6 ",
+        "Carac": "Charisme, Constitution",
+        "incant": "Charisme",
+        "save": "Constitution , Charisme",
+        "image": "ensorceleur.png"
+      },
+      {
+        "name": "Guerrier",
+        "Vie": "d10 ",
+        "Carac": "Force ou  Dextérité, Constitution",
+        "incant": "-",
+        "save": "Force , Constitution",
+        "image": "guerrier.png"
+      },
+      {
+        "name": "Magicien",
+        "Vie": "d6 ",
+        "Carac": "Intelligence, Dextérité",
+        "incant": "Intelligence",
+        "save": "Intelligence, Sagesse",
+        "image": "magicien.png"
+      },
+      {
+        "name": "Moine",
+        "Vie": "d8 ",
+        "Carac": " Dextérité, Sagesse",
+        "incant": "Sagesse",
+        "save": "Force , Dextérité",
+        "image": "moine.png"
+      },
+      {
+        "name": "Paladin",
+        "Vie": "d10 ",
+        "Carac": "Force, Charisme",
+        "incant": "Charisme",
+        "save": "Sagesse , Charisme",
+        "image": "paladin.png"
+      },
+      {
+        "name": "Rôdeur",
+        "Vie": "d10 ",
+        "Carac": "Dextérité, Sagesse",
+        "incant": "Sagesse",
+        "save": "Force , Dextérité",
+        "image": "rodeur.png"
+      },
+      {
+        "name": "Roublard",
+        "Vie": "d8 ",
+        "Carac": "Dextérité, Intelligence ou Charisme",
+        "incant": "-",
+        "save": "Dextérité , Intelligence",
+        "image": "roublard.png"
+      },
+      {
+        "name": "Sorcier",
+        "Vie": "d8 ",
+        "Carac": "Charisme, Force ou Dextérité",
+        "incant": "Charisme",
+        "save": "Sagesse , Charisme",
+        "image": "sorcier.png"
+      }
+      
+    ]
+  }
